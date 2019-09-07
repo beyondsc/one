@@ -1,5 +1,5 @@
 package one
 
 func FuncOne() string {
-	return "one v1"
+	return "one v2"
 }
